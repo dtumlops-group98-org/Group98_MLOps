@@ -15,7 +15,7 @@ dvc==3.59.0
 dvc-gs==3.0.1
 
 # Hugging Face:
-transformers==4.47.1
+transformers==4.49.0
 datasets==3.2.0
 
 # Pydantic:
