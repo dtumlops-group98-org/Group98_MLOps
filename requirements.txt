@@ -2,7 +2,7 @@
 matplotlib==3.10.0
 #torch==2.5.1+cu118 excluded for now - directly installed in docker so that we can debug with no cuda (faster build)
 loguru==0.7.3
-wandb==0.19.2
+wandb==0.19.7
 
 # CLI:
 invoke==2.2.0
