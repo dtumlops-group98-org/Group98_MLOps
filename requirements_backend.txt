@@ -6,7 +6,7 @@ python-multipart==0.0.20
 
 # Model relevant libraries:
 # torch==2.5.1+cu118 excluded for now - directly installed in docker so that we can debug with no cuda (faster build)
-transformers==4.47.1
+transformers==4.49.0
 datasets==3.2.0
 
 # Logging and CLI:
